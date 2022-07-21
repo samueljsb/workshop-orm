@@ -25,7 +25,6 @@ This demo uses Postgres as a database -- make sure you have Postgres running.
 1. Create the database and run the migrations:
 
   ```sh
-  createdb workshop_orm
   python -m manage migrate
   ```
 
